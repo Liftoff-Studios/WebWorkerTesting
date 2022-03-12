@@ -1,3 +1,3 @@
-onmessage = (e)=>{
+onmessage = function(e){
   postMessage("Hi Friend :)") 
 }
